@@ -16,23 +16,23 @@
 ```
 
 habr/
-Dockerfile
-docker-compose.yml
-.env
-server.js
-package.json
-src/
-routes/
-auth.js
-vacancies.js
-lib/
-token.js
-cache.js
-habrApi.js
-webhook.js
-utils.js
-cron/
-jobs.js
+  Dockerfile
+  docker-compose.yml
+  .env
+  server.js
+  package.json
+  src/
+    routes/
+      auth.js
+      vacancies.js
+    lib/
+      token.js
+      cache.js
+      habrApi.js
+      webhook.js
+      utils.js
+    cron/
+      jobs.js
 
 ```
 
